@@ -3577,7 +3577,6 @@ figcaption {
 .section_home-hero {
     grid-column-gap: 0rem;
     grid-row-gap: 0rem;
-    background-image: linear-gradient(transparent,transparent 90%,#000),url(https://cdn.prod.website-files.com/6612cfc14d4530a09963ffab/661b79c8122a164fb698431e_texture-30.webp),url(https://cdn.prod.website-files.com/6612cfc14d4530a09963ffab/661b793cd8c79ac2803f5392_glow-on-hero.svg),linear-gradient(transparent,#000 64%,#000),url(https://cdn.prod.website-files.com/6612cfc14d4530a09963ffab/6612d22e0f49389795721bad_bg-grid-new.svg);
     background-position: 0 0,50% 0,50% 0,0 0,50% 0;
     background-repeat: repeat,repeat,no-repeat,repeat,repeat;
     background-size: auto,100%,100%,auto,100%;
@@ -5229,7 +5228,6 @@ figcaption {
     }
 
     .section_home-hero {
-        background-image: linear-gradient(transparent,transparent 90%,#000),url(https://cdn.prod.website-files.com/6612cfc14d4530a09963ffab/661b79c8122a164fb698431e_texture-30.webp),url(https://cdn.prod.website-files.com/6612cfc14d4530a09963ffab/661b8dce4d48ed3001214596_hero-bg-ultrawide.svg),linear-gradient(transparent,#000 64%,#000),url(https://cdn.prod.website-files.com/6612cfc14d4530a09963ffab/6612d22e0f49389795721bad_bg-grid-new.svg);
         background-size: auto,100%,100%,auto,auto 100%
     }
 
@@ -6072,7 +6070,6 @@ figcaption {
     }
 
     .section_home-hero {
-        background-image: linear-gradient(transparent,transparent 81%,#000),url(https://cdn.prod.website-files.com/6612cfc14d4530a09963ffab/661b79c8122a164fb698431e_texture-30.webp),url(https://cdn.prod.website-files.com/6612cfc14d4530a09963ffab/66162cb4a337366d4b346efc_hero-section-mobile.svg),linear-gradient(transparent,#000 64%,#000),url(https://cdn.prod.website-files.com/6612cfc14d4530a09963ffab/6612d22e0f49389795721bad_bg-grid-new.svg);
         background-size: auto,auto 100%,100%,auto,240%;
         min-height: 0;
         padding-bottom: 4rem

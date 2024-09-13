@@ -12,10 +12,9 @@ body {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    width: 50px;
-    height: 50px;
-    background-color: black;
-    color: white;
+    width: 60px;
+    height: 60px;
+    z-index: 10000;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -28,6 +27,15 @@ body {
 .whatsapp-icon:hover {
     transform: scale(1.2);
     background-color: #25D366; /* WhatsApp color */
+}
+
+svg {
+    fill: white; /* Default color */
+    transition: fill 0.3s ease; /* Transition for color change */
+}
+
+.whatsapp-icon:hover svg {
+    fill: white; /* Icon color on hover */
 }
 
 article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {
